@@ -33,8 +33,8 @@ The second and third lines of the log show the response to your initial ICMP req
 
 Next are the protocol and port number, which displays which protocol was used to handle communications and which port it was delivered to. In the error log, this appears as: udp port 53 unreachable. This means that the UDP protocol was used to request a domain name resolution using the address of the DNS server over port 53. Port 53, which aligns to the .domain extension in 203.0.113.2.domain, is a well-known port for DNS service. The word “unreachable” in the message indicates the message did not go through to the DNS server. Your browser was not able to obtain the IP address for yummyrecipesforme.com, which it needs to access the website because no service was listening on the receiving DNS port as indicated by the ICMP error message “udp port 53 unreachable.”
 
-<img src="https://imgur.com/xewEjpJ).png" height="70%" width="70%" alt=/>
-https://imgur.com/xewEjpJ
+<img src="https://imgur.com/xewEjpJ.png" height="70%" width="70%" alt=/>
+
 The remaining lines in the log indicate that ICMP packets were sent two more times, but the same delivery error was received both times. 
 
 Now that I have captured data packets using a network analyzer tool, it is my job to identify which network protocol and service were impacted by this incident. Then, I will need to write a follow-up report. 
