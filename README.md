@@ -66,11 +66,6 @@ Select the disk:  <br/>
 <br />
 <br />
 Enter the number of passes: <br/>
-
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://imgur.com/Qn0Typr.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
