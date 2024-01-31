@@ -49,7 +49,7 @@ This incident, in the meantime, is being handled by security engineers after you
 
 <img src="https://imgur.com/LpxZjqF.png" height="70%" width="70%" alt=/>
 
-Another Scenario Example:
+# Another Example:
 
 I am a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses. My organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
 
