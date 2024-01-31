@@ -1,6 +1,6 @@
 # Networks-and-Network-Security-Google
 
-<h1>👋Hi!!!!!!     🙅 📢🛑🚧🚨🦺⚙️(Under construction)</h1>
+<h1>👋Hi!!!!!!   </h1>
 
 <h2>👨‍💻 ,💡Cybersecurity Projects:</h2> 
 
@@ -85,8 +85,7 @@ Recover affected systems to normal operation and restore systems data and/or ass
 
 <img src="https://imgur.com/FC1pYOZ.png" height="70%" width="70%" alt=/>
 
-https://imgur.com/FC1pYOZ
-https://imgur.com/Xx6cDUm
+
 <h1>Google Course Certification</h1>
 
 
