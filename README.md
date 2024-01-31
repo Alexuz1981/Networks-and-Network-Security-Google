@@ -81,6 +81,9 @@ Recover affected systems to normal operation and restore systems data and/or ass
 
 <img src="https://imgur.com/vFHWIjR.png" height="70%" width="70%" alt=/>
 
+<img src="https://imgur.com/Xx6cDUm.png" height="70%" width="70%" alt=/>
+
+https://imgur.com/Xx6cDUm
 <h1>Google Course Certification</h1>
 
 
